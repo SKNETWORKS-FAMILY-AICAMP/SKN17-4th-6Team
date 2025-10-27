@@ -1,0 +1,124 @@
+.div-wrapper {
+  background-color: #55609a;
+  width: 100%;
+  max-width: 1920px;
+  min-height: 100vh;
+  margin: 0 auto;
+  position: relative;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+
+  overflow-x: hidden;       /* 가로 스크롤 제거 */
+  box-sizing: border-box;
+}
+
+/* === 섹션별 레이아웃 === */
+.hero-section {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding-top: 297px;
+}
+
+.content-section {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 442px;
+}
+
+.features-section {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 454px;
+}
+
+.cta-section {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-top: 143px;
+  padding-bottom: 158px;
+}
+
+/* === 버튼 부분 (Auto Fix 시작하기) === */
+.div-wrapper .rectangle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #eff4ff;
+  border-radius: 115px;
+  width: 450px;
+  height: 90px;
+  text-decoration: none;
+  cursor: pointer;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.div-wrapper .rectangle:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.div-wrapper .rectangle:active {
+  transform: translateY(0);
+}
+
+.div-wrapper .auto-fix {
+  color: #55609a;
+  font-family: "Pretendard-SemiBold", Helvetica;
+  font-weight: 600;
+  font-size: 25px;
+  line-height: normal;
+  text-align: center;
+  letter-spacing: 0;
+}
+
+/* === 이미지 === */
+.div-wrapper .auto-fix-b {
+  width: 640px;
+  height: 318px;
+}
+
+/* === 텍스트 섹션 === */
+.div-wrapper .text-wrapper,
+.div-wrapper .text-wrapper-2,
+.div-wrapper .text-wrapper-3,
+.div-wrapper .element,
+.div-wrapper .div,
+.div-wrapper .p {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #eff4ff;
+  text-align: center;
+  letter-spacing: 0;
+  opacity: 0.99;
+  margin: 0 auto;
+}
+
+/* 폰트 구분 */
+.text-wrapper,
+.text-wrapper-2 {
+  font-family: "Pretendard-SemiBold", Helvetica;
+  font-weight: 600;
+  font-size: 36px;
+  max-width: 1177px;
+}
+
+.element,
+.text-wrapper-3,
+.div,
+.p {
+  font-family: "Pretendard-Medium", Helvetica;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 60px;
+  max-width: 1177px;
+}
