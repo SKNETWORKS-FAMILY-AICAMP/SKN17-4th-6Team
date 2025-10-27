@@ -129,35 +129,49 @@ Auto Fix 프로젝트를 통해 실제 자동차 정비의 문제를 해결하�
 | **Demo 💡** | ![HTML Demo](https://img.shields.io/badge/-HTML%20Demo-E34F26?logo=html5&logoColor=white) |
 | **Collaborate 🔧** | ![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white)  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) |
 
+<br>
+<br>
 
------
+
 # 4. 시스템 구성도
 <img src="images/시스템 구성도.png" width="500" height=""/>
 
-------
+
+<br>
+<br>
+
 # 5 요구사항 정의서(캡처)
 <img src="images/요구사항 명세서.png" width="500" height=""/>
 
 [요구사항 정의서](https://www.notion.so/ohgiraffers/28f649136c118010b1b6cd63e52f7ee7?v=28f649136c1181129b0b000c8774a5b7)
 
-------
+<br>
+<br>
+
 # 6. 화면설계서(캡처)
 <img src='images/화면구현서.png' width='500', height="">
 
 [화면설계서](image/화면구현서.pptx)
 
-------
+<br>
+<br>
+
+
 # 7. WBS
 <img src="images/WBS.png" width="500" height=""/>
 
-------
+<br>
+<br>
+
 # 8. 테스트 계획 및 결과 보고서(캡처)
 <img src="images/테스트 계획서.png" width="600" height=""/>
 <br>
 
 <img src="images/테스트 결과서.png" width="600" height=""/>
 
-------
+<br>
+<br>
+
 # 9 수행결과(테스트/시연 페이지)
 <img src="images/1.png" width="300" height=""/>
 <img src="images/2.png" width="300" height=""/>
@@ -175,7 +189,9 @@ Auto Fix 프로젝트를 통해 실제 자동차 정비의 문제를 해결하�
 
 
 
-------
+<br>
+<br>
+
 # 10. 한계점 및 향후 개선 계획 
 
 디자인
@@ -192,8 +208,9 @@ Auto Fix 프로젝트를 통해 실제 자동차 정비의 문제를 해결하�
 - 시간 상 이유로 채팅 히스토리 저장 기능은 미탑재된 상태 → 추가적인 기능 개선 예정 (히스토리 저장, 상세조회 기능 개발)
 
 
+<br>
+<br>
 
-------
 # 11.✨ 한 줄 회고
 
 | 이름 | 한 줄 회고 |
