@@ -58,13 +58,6 @@ Auto Fix 프로젝트를 통해 실제 자동차 정비의 문제를 해결하�
 ## 💡Auto Fix는 현대/기아 GSW 정비 매뉴얼과 외부 문서 데이터(Naver 블로그, 지식인 등)를 연계한 Retrieval-Augmented Generation(RAG) 기반의 차량 정비 챗봇입니다.  
 차량에서 발생할 수 있는 **이상 증상** (예: 진동, 소음, 경고등 점등 등)에 대해 사용자가 자연어로 질문하면, Auto Fix는 관련 문서를 기반으로 정확하고 신뢰도 높은 정비 진단 및 대응 방안을 제공합니다.
 
-### 🔧 주요 기능
-
-- 🚘 **차량 증상 질의 응답**: 차량의 이상 증상에 대해 자연어로 질문 가능  
-- 📚 **GSW 정비 매뉴얼 연동**: 제조사 공식 문서를 활용한 정확한 진단  
-- 🌐 **외부 데이터 보강**: 실 사용자 경험 기반의 Naver 블로그, 지식인 문서로 실제 사례 반영  
-- 🔍 **문서 검색 + LLM 응답**: RAG(Retrieval-Augmented Generation) 기술로 근거 기반 응답 제공
-
 <br>
 
 ## ✅ 프로젝트 필요성
@@ -143,9 +136,10 @@ Auto Fix 프로젝트를 통해 실제 자동차 정비의 문제를 해결하�
 <br>
 <br>
 
+
 ------
 
-# 5 요구사항 정의서(캡처)
+# 5 요구사항 정의서
 <img src="images/요구사항 명세서.png" width="500" height=""/>
 
 [요구사항 정의서](https://www.notion.so/ohgiraffers/28f649136c118010b1b6cd63e52f7ee7?v=28f649136c1181129b0b000c8774a5b7)
@@ -153,10 +147,11 @@ Auto Fix 프로젝트를 통해 실제 자동차 정비의 문제를 해결하�
 <br>
 <br>
 
-------
+-----
 
-# 6. 화면설계서(캡처)
-<img src='images/화면구현서.png' width='500' height="">
+
+# 6. 화면설계서
+<img src='images/화면구현서.png' width='500' height=""/>
 
 [화면설계서](image/화면구현서.pptx)
 
@@ -172,12 +167,16 @@ Auto Fix 프로젝트를 통해 실제 자동차 정비의 문제를 해결하�
 <br>
 
 
+
 ------
-# 8. 테스트 계획 및 결과 보고서(캡처)
-<img src="images/테스트 계획서.png" width="600" height=""/>
+
+# 8. 테스트 계획 및 결과 보고서
+<img src="images/테스트 계획서.png" width="600" height=""/>  <br>
+[테스트 계획서](https://www.notion.so/ohgiraffers/298649136c11804ebb7ec59c06411cea?v=298649136c11818b8759000cbfa455c3)
 <br>
 
-<img src="images/테스트 결과서.png" width="600" height=""/>
+<img src="images/테스트 결과서.png" width="600" height=""/>  <br>
+[테스트 결과서](https://www.notion.so/ohgiraffers/298649136c1180189c8dec5feedd98fc?v=298649136c1181aa94a2000caac161f0)
 
 <br>
 <br>
@@ -194,7 +193,6 @@ Auto Fix 프로젝트를 통해 실제 자동차 정비의 문제를 해결하�
 <img src="images/7.png" width="300" height=""/>
 <img src="images/8.png" width="300" height=""/>
 
-# 4x4 GIF 그리드 예시
 
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
   <img src="gifs/output_1.gif" alt="GIF1" width="100%">
