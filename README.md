@@ -184,14 +184,14 @@ Auto Fix 프로젝트를 통해 실제 자동차 정비의 문제를 해결하�
 ------
 
 # 9 수행결과(테스트/시연 페이지)
-<img src="images/1.png" width="300" height=""/>
-<img src="images/2.png" width="300" height=""/>
-<img src="images/3.png" width="300" height=""/>
-<img src="images/4.png" width="300" height=""/>
-<img src="images/5.png" width="300" height=""/>
-<img src="images/6.png" width="300" height=""/>
-<img src="images/7.png" width="300" height=""/>
-<img src="images/8.png" width="300" height=""/>
+<img src="images/1.png" width="1000" height=""/>
+<img src="images/2.png" width="1000" height=""/>
+<img src="images/3.png" width="1000" height=""/>
+<img src="images/4.png" width="1000" height=""/>
+<img src="images/5.png" width="1000" height=""/>
+<!-- <img src="images/6.png" width="300" height=""/>
+<img src="images/7.png" width="300" height=""/> -->
+
 
 
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
@@ -205,7 +205,7 @@ Auto Fix 프로젝트를 통해 실제 자동차 정비의 문제를 해결하�
   <img src="gifs/output_8.gif" alt="GIF8" width="100%">
 </div>
 
-
+<img src="images/8.png" width="1000" height=""/>
 
 
 
