@@ -154,7 +154,8 @@ Auto Fix 프로젝트를 통해 실제 자동차 정비의 문제를 해결하�
 # 6. 화면설계서
 <img src='images/화면구현서.png' width='100%' height=""/>
 
-[화면설계서](images/화면구현서.pptx)
+[화면설계서🗂️](image/화면구현서.pdf) <br>
+[화면설계서🔗](https://docs.google.com/presentation/d/1YsRjiNc_LpCM53-yZUm3KXioDAjvZ7RWwRuu7Rhqx_A/edit?usp=sharing)
 
 <br>
 <br>
