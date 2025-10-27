@@ -50,7 +50,7 @@ Auto Fix 프로젝트를 통해 실제 자동차 정비의 문제를 해결하�
 
 <br>
 
--------------
+------
 
 
 # 2. 🧠 프로젝트 개요
@@ -118,6 +118,8 @@ Auto Fix 프로젝트를 통해 실제 자동차 정비의 문제를 해결하�
 <br>
 <br>
 
+----------
+
 # 3. 💡 기술 스택 및 구조
 
 | 영역 | 기술 / 도구 |
@@ -132,6 +134,7 @@ Auto Fix 프로젝트를 통해 실제 자동차 정비의 문제를 해결하�
 <br>
 <br>
 
+-----
 
 # 4. 시스템 구성도
 <img src="images/시스템 구성도.png" width="500" height=""/>
@@ -139,6 +142,8 @@ Auto Fix 프로젝트를 통해 실제 자동차 정비의 문제를 해결하�
 
 <br>
 <br>
+
+------
 
 # 5 요구사항 정의서(캡처)
 <img src="images/요구사항 명세서.png" width="500" height=""/>
@@ -148,14 +153,17 @@ Auto Fix 프로젝트를 통해 실제 자동차 정비의 문제를 해결하�
 <br>
 <br>
 
+------
+
 # 6. 화면설계서(캡처)
-<img src='images/화면구현서.png' width='500', height="">
+<img src='images/화면구현서.png' width='500' height="">
 
 [화면설계서](image/화면구현서.pptx)
 
 <br>
 <br>
 
+------
 
 # 7. WBS
 <img src="images/WBS.png" width="500" height=""/>
@@ -163,6 +171,8 @@ Auto Fix 프로젝트를 통해 실제 자동차 정비의 문제를 해결하�
 <br>
 <br>
 
+
+------
 # 8. 테스트 계획 및 결과 보고서(캡처)
 <img src="images/테스트 계획서.png" width="600" height=""/>
 <br>
@@ -171,6 +181,8 @@ Auto Fix 프로젝트를 통해 실제 자동차 정비의 문제를 해결하�
 
 <br>
 <br>
+
+------
 
 # 9 수행결과(테스트/시연 페이지)
 <img src="images/1.png" width="300" height=""/>
@@ -182,8 +194,19 @@ Auto Fix 프로젝트를 통해 실제 자동차 정비의 문제를 해결하�
 <img src="images/7.png" width="300" height=""/>
 <img src="images/8.png" width="300" height=""/>
 
-<video src="화면테스트.mp4" width="600" controls>
-</video>
+# 4x4 GIF 그리드 예시
+
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
+  <img src="gifs/output_1.gif" alt="GIF1" width="100%">
+  <img src="gifs/output_2.gif" alt="GIF2" width="100%">
+  <img src="gifs/output_3.gif" alt="GIF3" width="100%">
+  <img src="gifs/output_4.gif" alt="GIF4" width="100%">
+  <img src="gifs/output_5.gif" alt="GIF5" width="100%">
+  <img src="gifs/output_6.gif" alt="GIF6" width="100%">
+  <img src="gifs/output_7.gif" alt="GIF7" width="100%">
+  <img src="gifs/output_8.gif" alt="GIF8" width="100%">
+</div>
+
 
 
 
@@ -191,6 +214,8 @@ Auto Fix 프로젝트를 통해 실제 자동차 정비의 문제를 해결하�
 
 <br>
 <br>
+
+----------------
 
 # 10. 한계점 및 향후 개선 계획 
 
@@ -210,6 +235,9 @@ Auto Fix 프로젝트를 통해 실제 자동차 정비의 문제를 해결하�
 
 <br>
 <br>
+
+
+---------------
 
 # 11.✨ 한 줄 회고
 
