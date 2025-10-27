@@ -154,7 +154,7 @@ Auto Fix 프로젝트를 통해 실제 자동차 정비의 문제를 해결하�
 # 6. 화면설계서
 <img src='images/화면구현서.png' width='100%' height=""/>
 
-[화면설계서](image/화면구현서.pptx)
+[화면설계서](images/화면구현서.pptx)
 
 <br>
 <br>
@@ -172,11 +172,11 @@ Auto Fix 프로젝트를 통해 실제 자동차 정비의 문제를 해결하�
 ------
 
 # 8. 테스트 계획 및 결과 보고서
-<img src="images/테스트 계획서.png" width="600" height=""/>  <br>
+<img src="images/테스트 계획서.png" width="100%" height=""/>  <br>
 [테스트 계획서](https://www.notion.so/ohgiraffers/298649136c11804ebb7ec59c06411cea?v=298649136c11818b8759000cbfa455c3)
 <br>
 
-<img src="images/테스트 결과서.png" width="600" height=""/>  <br>
+<img src="images/테스트 결과서.png" width="100%" height=""/>  <br>
 [테스트 결과서](https://www.notion.so/ohgiraffers/298649136c1180189c8dec5feedd98fc?v=298649136c1181aa94a2000caac161f0)
 
 <br>
@@ -185,11 +185,11 @@ Auto Fix 프로젝트를 통해 실제 자동차 정비의 문제를 해결하�
 ------
 
 # 9 수행결과(테스트/시연 페이지)
-<img src="images/1.png" width="1000" height=""/>
-<img src="images/2.png" width="1000" height=""/>
-<img src="images/3.png" width="1000" height=""/>
-<img src="images/4.png" width="1000" height=""/>
-<img src="images/5.png" width="1000" height=""/>
+<img src="images/1.png" width="100%" height=""/>
+<img src="images/2.png" width="100%" height=""/>
+<img src="images/3.png" width="100%" height=""/>
+<img src="images/4.png" width="100%" height=""/>
+<img src="images/5.png" width="100%" height=""/>
 <!-- <img src="images/6.png" width="300" height=""/>
 <img src="images/7.png" width="300" height=""/> -->
 
@@ -206,7 +206,7 @@ Auto Fix 프로젝트를 통해 실제 자동차 정비의 문제를 해결하�
   <img src="gifs/output_8.gif" alt="GIF8" width="100%">
 </div>
 
-<img src="images/8.png" width="1000" height=""/> <br>
+<img src="images/8.png" width="100%" height=""/> <br>
 [AutoFix🛠️](http://3.34.166.198:8080/chat/main/)
 
 
@@ -240,7 +240,7 @@ Auto Fix 프로젝트를 통해 실제 자동차 정비의 문제를 해결하�
 
 | 이름 | 한 줄 회고 |
 |:------:|-------------|
-| 최동현 |   |
+| 최동현 | 로컬 환경에서는 잘 작동하던 기능들이 클라우드 배포 환경으로 옮기자 여러 문제가 발생했고, 이를 해결하는 데 많은 시간이 걸렸다. 그러나 이 과정을 통해 배포의 전반적인 절차를 직접 경험할 수 있었고, 로컬 개발 단계에서도 배포 환경의 제약사항과 설정 차이를 미리 고려해야 함을 깨달았다. |
 | 양정민 |   |
-| 전상아 |요구사항 명세서 작성부터 배포까지 웹페이지 개발의 흐름을 직접 구현한 좋은 기회였다.|
-| 주수빈 |   |
+| 전상아 | 요구사항 명세서 작성부터 배포까지 웹페이지 개발의 흐름을 직접 구현한 좋은 기회였다. Html과 css 작성 시 많은 공부가 필요했지만 요구사항 명세서 작성부터 배포까지 웹 개발의 흐름을 직접 구현할 수 있었던 좋은 기회였다. |
+| 주수빈 | 짧은 시간 동안 요구사항 명세서, 화면 설계서, 그리고 이를 바탕으로 한 웹서비스 제작 및 배포의 전 과정을 다 거치면서 설계와 구현의 중요성을 많이 배웠다. 특히 설계가 깊고 자세하면 자세할수록 구현 과정에서의 고민은 줄어들지만, 이를 구현할 절대적인 시간의 확보 또한 마감 기한에 맞춘 웹 배포 과정에서 반드시 준수해야 할 사항임을 몸소 느낄 수 있었다. 또한 피그마와 화면 구현을 모두 진행해보니, UI/UX 디자이너와 개발자 사이의 고뇌를 체험할 수 있었고, 피그마를 통한 화면 구현서 작성 시에는 개발자의 입장을 고려해야 함을, 또 개발자의 입장에서는 작성된 화면 구현서의 내용을 모두 준수할 수 있는 능력을 갖춰야겠다는 생각이 들어 추후 실력 향상을 해야겠다는 열정을 끌어올리는 발판이 된 프로젝트인 것 같다. |
