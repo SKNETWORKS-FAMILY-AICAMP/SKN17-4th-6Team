@@ -130,7 +130,7 @@ Auto Fix 프로젝트를 통해 실제 자동차 정비의 문제를 해결하�
 -----
 
 # 4. 시스템 구성도
-<img src="images/시스템 구성도.png" width="500" height=""/>
+<img src="images/시스템 구성도.png" width="100%" height=""/>
 
 
 <br>
@@ -140,7 +140,8 @@ Auto Fix 프로젝트를 통해 실제 자동차 정비의 문제를 해결하�
 ------
 
 # 5 요구사항 정의서
-<img src="images/요구사항 명세서.png" width="500" height=""/>
+<img src="images/요구사항 명세서1.png" width="100%" height=""/>
+<img src="images/요구사항 명세서2.png" width="100%" height=""/>
 
 [요구사항 정의서](https://www.notion.so/ohgiraffers/28f649136c118010b1b6cd63e52f7ee7?v=28f649136c1181129b0b000c8774a5b7)
 
@@ -151,7 +152,7 @@ Auto Fix 프로젝트를 통해 실제 자동차 정비의 문제를 해결하�
 
 
 # 6. 화면설계서
-<img src='images/화면구현서.png' width='500' height=""/>
+<img src='images/화면구현서.png' width='100%' height=""/>
 
 [화면설계서](image/화면구현서.pptx)
 
@@ -161,7 +162,7 @@ Auto Fix 프로젝트를 통해 실제 자동차 정비의 문제를 해결하�
 ------
 
 # 7. WBS
-<img src="images/WBS.png" width="500" height=""/>
+<img src="images/WBS.png" width="100%" height=""/>
 
 <br>
 <br>
@@ -205,8 +206,8 @@ Auto Fix 프로젝트를 통해 실제 자동차 정비의 문제를 해결하�
   <img src="gifs/output_8.gif" alt="GIF8" width="100%">
 </div>
 
-<img src="images/8.png" width="1000" height=""/>
-
+<img src="images/8.png" width="1000" height=""/> <br>
+[AutoFix🛠️](http://3.34.166.198:8080/chat/main/)
 
 
 
@@ -218,9 +219,7 @@ Auto Fix 프로젝트를 통해 실제 자동차 정비의 문제를 해결하�
 # 10. 한계점 및 향후 개선 계획 
 
 디자인
-- 로그인 잘못하면 에러 문구나오게 하기
 - 비밀번호 찾기 / 변경창 화면구현서 디자인과 불일치(화면설계서 상 모달로 예정되어있던 부분을 버튼 형식으로 구현) → 추가적인 기능 개선 예정 (모달로 변경)
-- 회원가입창 뒤로가기 버튼 매핑 안되어있음
 - 토글버튼 누르는 창과 채팅창이 분리되어있음 → 추가적인 기능 개선 예정 (모달로 변경)
 
 기능
