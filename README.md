@@ -130,20 +130,6 @@ Auto Fix 프로젝트를 통해 실제 자동차 정비의 문제를 해결하�
 | **Collaborate 🔧** | ![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white)  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) |
 
 
-
----
-
-## 🗂️ 문서 기반 질의응답 흐름
-
-```mermaid
-flowchart TD
-    A[사용자 질의 입력] --> B[Query Embedding 생성]
-    B --> C[Vector DB에서 관련 문서 검색]
-    C --> D[검색된 문서 + 사용자 질문 → LLM 전달]
-    D --> E[근거 기반 응답 생성]
-    E --> F[사용자에게 응답 제공]
-```
-
 -----
 # 4. 시스템 구성도
 <img src="images/시스템 구성도.png" width="500" height=""/>
@@ -156,7 +142,8 @@ flowchart TD
 
 ------
 # 6. 화면설계서(캡처)
-![alt text](image.png)
+<img src='images/화면구현서.png' width='500', height="">
+
 [화면설계서](image/화면구현서.pptx)
 
 ------
@@ -165,18 +152,46 @@ flowchart TD
 
 ------
 # 8. 테스트 계획 및 결과 보고서(캡처)
+<img src="images/테스트 계획서.png" width="600" height=""/>
+<br>
 
+<img src="images/테스트 결과서.png" width="600" height=""/>
 
 ------
 # 9 수행결과(테스트/시연 페이지)
+<img src="images/1.png" width="300" height=""/>
+<img src="images/2.png" width="300" height=""/>
+<img src="images/3.png" width="300" height=""/>
+<img src="images/4.png" width="300" height=""/>
+<img src="images/5.png" width="300" height=""/>
+<img src="images/6.png" width="300" height=""/>
+<img src="images/7.png" width="300" height=""/>
+<img src="images/8.png" width="300" height=""/>
+
+<video src="화면테스트.mp4" width="600" controls>
+</video>
+
+
+
 
 
 ------
 # 10. 한계점 및 향후 개선 계획 
+
+디자인
+- 로그인 잘못하면 에러 문구나오게 하기
+- 비밀번호 찾기 / 변경창 화면구현서 디자인과 불일치(화면설계서 상 모달로 예정되어있던 부분을 버튼 형식으로 구현) → 추가적인 기능 개선 예정 (모달로 변경)
+- 회원가입창 뒤로가기 버튼 매핑 안되어있음
+- 토글버튼 누르는 창과 채팅창이 분리되어있음 → 추가적인 기능 개선 예정 (모달로 변경)
+
+기능
+- 히스토리 내역 부재
+- EC2 -> RDS 데이터 편집 불가로 인한 회원가입 기능 부재
 - 웹서비스이다보니 자동차에 탑재를 못해서 주행 중 서비스에 한계
 - 사용자 정보 수집 개인정보 활용에 대해 미고지 → 개인정보 활용에 대한 페이지 추가 예정
 - 시간 상 이유로 채팅 히스토리 저장 기능은 미탑재된 상태 → 추가적인 기능 개선 예정 (히스토리 저장, 상세조회 기능 개발)
-- 화면설계서 상 모달로 예정되어있던 부분을 버튼 형식으로 구현 → 추가적인 기능 개선 예정 (모달로 변경)
+
+
 
 ------
 # 11.✨ 한 줄 회고
@@ -186,5 +201,4 @@ flowchart TD
 | 최동현 |   |
 | 양정민 |   |
 | 전상아 |요구사항 명세서 작성부터 배포까지 웹페이지 개발의 흐름을 직접 구현한 좋은 기회였다.|
-
 | 주수빈 |   |
