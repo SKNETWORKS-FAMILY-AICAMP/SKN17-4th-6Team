@@ -193,20 +193,8 @@ Auto Fix 프로젝트를 통해 실제 자동차 정비의 문제를 해결하�
 <img src="images/5.png" width="100%" height=""/>
 <!-- <img src="images/6.png" width="300" height=""/>
 <img src="images/7.png" width="300" height=""/> -->
-
-
-
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
-  <img src="gifs/output_1.gif" alt="GIF1" width="100%">
-  <img src="gifs/output_2.gif" alt="GIF2" width="100%">
-  <img src="gifs/output_3.gif" alt="GIF3" width="100%">
-  <img src="gifs/output_4.gif" alt="GIF4" width="100%">
-  <img src="gifs/output_5.gif" alt="GIF5" width="100%">
-  <img src="gifs/output_6.gif" alt="GIF6" width="100%">
-  <img src="gifs/output_7.gif" alt="GIF7" width="100%">
-  <img src="gifs/output_8.gif" alt="GIF8" width="100%">
-</div>
-
+<img src="images/6.png" width="100%" height=""/>
+<img src="images/7.png" width="100%" height=""/>
 <img src="images/8.png" width="100%" height=""/> <br>
 [AutoFix🛠️](http://3.34.166.198:8080/chat/main/)
 
